@@ -4,7 +4,20 @@ This project utilizes knowledge of mySQL to create a very small scale amazon rep
 
 ## Running the tests
 
-![Screenshot](/screenshots/screenshot_1.png)
+![Screenshot_1](https://github.com/Danthamaz/mySQL/blob/master/screenshots/screenshot_1.PNG)
+
+![Screenshot_2](https://github.com/Danthamaz/mySQL/blob/master/screenshots/screenshot_2.PNG)
+
+**Bamazon Manager:**
+
+![Screenshot_3](https://github.com/Danthamaz/mySQL/blob/master/screenshots/screenshot_3.PNG)
+
+![Screenshot_4](https://github.com/Danthamaz/mySQL/blob/master/screenshots/screenshot_4.PNG)
+
+![Screenshot_5](https://github.com/Danthamaz/mySQL/blob/master/screenshots/screenshot_5.PNG)
+
+![Screenshot_6](https://github.com/Danthamaz/mySQL/blob/master/screenshots/screenshot_6.PNG)
+
 
 ## Built With
 
